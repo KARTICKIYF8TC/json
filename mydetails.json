@@ -1,0 +1,35 @@
+[
+  {
+    "NAME": "Chayan Jana",
+    "image":"chayan.jpg",
+    "AGE":21,
+    "PROFESSION":"Student",
+    "dOB":"22/08/2005",
+    "GENDER":"Male",
+    "ADDRESS":"Contai, Kolkata, West Bengal, India",
+    "EMAIL":"chayan.jana@gmail.com",
+    "PHONE":"1234567890",
+    "HOBBIES":{
+      "Hobby1":"Coding",
+      "Hobby2":"Gaming",
+      "Hobby3":"Streaming"
+    },
+    "SKILLS":{
+      "Skill1":"JavaScript",
+      "Skill2":"PHP",
+      "Skill3":"HTML/CSS"
+    },
+    "EDUCATION":{
+        "college":{
+            "Degree":"Bachelor of Computer Applications",
+            "University":"Contai College of Learning and Management Science",
+            "Year":"2024"
+        },
+        "school":{
+            "High School":"Vivekananda Adarsha Sikshaniketan",
+            "Year of Passing":"2024",  
+            "Mark":"85%"
+        }
+    }
+  }
+]
